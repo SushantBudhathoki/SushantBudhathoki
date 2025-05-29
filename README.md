@@ -1,6 +1,6 @@
 # 👨‍💻 Sushant Budhathoki's Networking Portfolio
 
-📍 Mississauga, Ontario | 📧 sushantbudhathoki@gmail.com | [LinkedIn](https://www.linkedin.com/in/sushant-budhathoki-230037268/)
+📍 Mississauga, Ontario | 📧 sushantbudhathoki20@gmail.com | [LinkedIn](https://www.linkedin.com/in/sushant-budhathoki-230037268/)
 
 ---
 
@@ -15,7 +15,7 @@ Aspiring Network Engineer actively preparing for the **Cisco Certified Network A
 - Network Troubleshooting (Layer 1–3)
 - TCP/IP, DHCP, DNS, NAT Configuration
 - VLANs and Inter-VLAN Routing
-- Cisco Packet Tracer & Wireshark
+- Cisco Packet Tracer
 - Hardware Setup & Cable Management
 - FTTH (Fiber to the Home) Familiarity
 - Network Documentation & Support Ticketing
@@ -39,21 +39,3 @@ Each lab includes:
 - `README.md` with objective, topology diagram, configuration steps, and outputs
 
 ---
-
-### 📂 `notes/`
-My study notes and summaries for CCNA topics:
-- `network-fundamentals.md`
-- `routing-and-switching.md`
-- `ip-services.md`
-- `security-fundamentals.md`
-
----
-
-### 📂 `scripts/`
-Basic configuration scripts (CLI) for Cisco devices:
-```bash
-hostname Router1
-enable secret cisco123
-interface g0/0
- ip address 192.168.1.1 255.255.255.0
- no shutdown
