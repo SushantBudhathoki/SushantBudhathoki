@@ -1,6 +1,6 @@
 # 👨‍💻 Sushant Budhathoki's Networking Portfolio
 
-📍 Mississauga, Ontario | 📧 sushantbudhathoki20@gmail.com | [LinkedIn](https://www.linkedin.com/in/sushant-budhathoki-230037268/)
+📍 Mississauga, Ontario | 📧 sushantbudhathoki20@gmail.com | <a href="https://www.linkedin.com/in/sushant-budhathoki-230037268/" target="_blank">LinkedIn</a>
 
 ---
 
