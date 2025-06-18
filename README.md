@@ -28,14 +28,11 @@ Aspiring Network Engineer actively preparing for the **Cisco Certified Network A
 ### 📂 `labs/`
 Simulated labs built in Cisco Packet Tracer or GNS3.
 
-- `01-basic-network-topology.pkt`: Simple LAN with static IPs
-- `02-vlan-routing.pkt`: VLAN and Inter-VLAN Routing with a Layer 3 switch
-- `03-ospf-lab.pkt`: Multi-area OSPF configuration
-- `04-nat-configuration.pkt`: Dynamic and Static NAT with internet simulation
-- `05-ftth-demo.pkt`: FTTH architecture simulation
+- `Router-on-A-Stick`: (https://github.com/SushantBudhathoki/Router-On-A-Stick-mini-lab)
+- `CCNA - EIGRP LAB`: (https://github.com/SushantBudhathoki/CCNA---EIGRP-LAB)
 
 Each lab includes:
 - `.pkt` file
-- `README.md` with objective, topology diagram, configuration steps, and outputs
+- `README.md` explaining the project
 
 ---
